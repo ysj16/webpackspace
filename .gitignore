@@ -1,0 +1,4 @@
+node_modules/
+case/*.[jt]s
+dist/*.[tj]s
+package-lock.json
